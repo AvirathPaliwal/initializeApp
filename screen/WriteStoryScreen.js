@@ -34,7 +34,7 @@ render() {
           <Header
           backgroundColor={'#9c8210'}
           centerComponent={{
-            text: 'Monkey Chunky',
+            text: 'Story Hub',
             style: { color: '#fff', fontSize: 20 },
           }}
         />
